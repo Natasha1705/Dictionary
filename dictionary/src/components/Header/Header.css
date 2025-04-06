@@ -1,0 +1,7 @@
+.header {
+    background-color: var(--primary-color);
+    color: rgb(80, 113, 223);
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid var(--secondary-color);
+  }

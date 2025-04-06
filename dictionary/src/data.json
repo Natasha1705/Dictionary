@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "word": "apple",
+      "translation": "яблоко",
+      "theme": "Фрукты"
+    },
+    {
+      "id": 2,
+      "word": "banana",
+      "translation": "банан",
+      "theme": "Фрукты"
+    },
+    {
+      "id": 3,
+      "word": "carrot",
+      "translation": "морковь",
+      "theme": "Овощи"
+    },
+    {
+      "id": 4,
+      "word": "dog",
+      "translation": "собака",
+      "theme": "Животные"
+    }
+  ]

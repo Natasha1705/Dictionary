@@ -1,0 +1,15 @@
+.word-card {
+    background-color: rgb(101, 174, 223);
+    border: 1px solid   #88bae6;
+    border-radius: var(--border-radius);
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform var(--transition-speed);
+  }
+  
+  .word-card:hover {
+    transform: translateY(-5px);
+  }
+
+

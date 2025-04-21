@@ -1,0 +1,45 @@
+.practice-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .word-card {
+    background: rgb(196, 242, 248);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    ;
+  }
+  
+  .show-translation-button, .next-button {
+    background: #4a6fa5;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+    /* transition: background 0.3s ease; */
+  }
+  
+  .show-translation-button:hover, .next-button:hover {
+    background: #3a5a80;
+  }
+  
+  .translation-section {
+    margin-top: 20px;
+  }
+  
+  .translation {
+    font-size: 1.2em;
+    color: #2ecc71;
+    margin-bottom: 10px;
+  }
+  
+  .transcription {
+    color: #7f8c8d;
+    font-style: italic;
+  }
+  

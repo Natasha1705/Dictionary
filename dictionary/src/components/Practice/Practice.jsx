@@ -32,7 +32,7 @@ const Practice = () => {
 
   return (
     <div>
-      <h1>Практика</h1>
+      <h1>Тренировка</h1>
       <div className="word-card">
         <h2>{currentWord.english}</h2>
         {showTranslation ? (
